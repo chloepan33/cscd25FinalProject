@@ -1,0 +1,55 @@
+news_media,bias_score,clean_domains,id
+AlterNet,-2,alternet.org,1
+BuzzFeed News,-2,buzzfeed.com,2
+CNN(Opinion),-2,cnn.com,3
+Daily Beast,-2,thedailybeast.com,4
+Democracy Now!,-2,democracynow.org,5
+HuffPost,-2,huffpost.com,6
+Mother Jones,-2,motherjones.com,7
+MSNBC,-2,msnbc.com,8
+New York Times(Opinion),-2,nytimes.com,9
+Slate,-2,slate.com,10
+The Atlantic,-2,theatlantic.com,11
+The Intercept,-2,theintercept.com,12
+The New Yorker,-2,newyorker.com,13
+Vox,-2,vox.com,14
+ABC News,-1,abcnews.go.com,18
+Associated Press,-1,apnews.com,19
+Axios,-1,axios.com,21
+Bloomberg,-1,bloomberg.com,22
+CBS News,-1,cbsnews.com,23
+CNN (Online News),-1,cnn.com,24
+Insider,-1,insider.com,25
+NBC News,-1,nbcnews.com,26
+New York Times,-1,nytimes.com,27
+NPR,-1,npr.org,28
+Politico,-1,politico.com,29
+The Economist,-1,economist.com,30
+The Guardian,-1,theguardian.com,31
+Time Magazine,-1,time.com,32
+USA TODAY,-1,usatoday.com,33
+Washington Post,-1,washingtonpost.com,34
+BBC News,0,bbc.com,35
+Christian Science Monitor,0,csmonitor.com,36
+Forbes,0,forbes.com,37
+NewsNation,0,newsnationnow.com,38
+Newsweek,0,newsweek.com,39
+Reuters,0,reuters.com,40
+The Hill,0,thehill.com,41
+Wall Street Journal(News),0,wsj.com,42
+National Review,1,nationalreview.com,52
+New York Post,1,nypost.com,53
+Reason,1,reason.com,54
+The Epoch Times,1,theepochtimes.com,55
+Wall Street Journal(Opinion),1,wsj.com,56
+Washington Examiner,1,washingtonexaminer.com,57
+Washington Times,1,washingtontimes.com,58
+Breitbart News,2,breitbart.com,69
+Daily Mail,2,dailymail.co.uk,70
+Fox News,2,foxnews.com,71
+The American Spectator,2,spectator.org,72
+The Blaze,2,theblaze.com,73
+The Daily Caller,2,dailycaller.com,74
+The Daily Wire,2,dailywire.com,75
+The Federalist,2,thefederalist.com,76
+Washington Free Beacon,2,freebeacon.com,77
