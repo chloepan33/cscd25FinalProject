@@ -41,7 +41,7 @@ Additionally, we integrate external datasets
     - Organized and cleaned the data to prepare for analysis.
 2. **Sentiment Analysis**:
     - Conducted sentiment analysis on comments across various subreddits.
-    - For each comment, defined a weighted sentiment as follows: number of upvotes multiplied by the sentiment score. If the number of upvotes was 0, used 0.01 instead to avoid null values.
+    - For each comment, defined a weighted sentiment as follows: number of upvotes multiplied by the sentiment score. If the number of upvotes was 0, used 0.01 instead to avoid null values. This approach ensures a detailed and nuanced analysis of sentiment in political subreddits, accounting for the influence of user engagement (upvotes) on the perceived sentiment strength.
     - Grouped data by subreddit to aggregate these weighted sentiment scores and count comments.
     - Utilized sentiment values to analyze the emotional tone of the comments.
 3. **Data Normalization**:
@@ -69,7 +69,6 @@ Additionally, we integrate external datasets
     - Incorporated a dataset of major events to correlate sentiment trends with real-world happenings.
     - Visualized how these events impacted the sentiment in various subreddits.
 
-This updated approach ensures a detailed and nuanced analysis of sentiment in political subreddits, accounting for the influence of user engagement (upvotes) on the perceived sentiment strength.
 
 ### **Limitations**
 
