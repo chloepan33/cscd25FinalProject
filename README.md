@@ -1,6 +1,6 @@
 # ****Sentiment and Political Orientation in Reddit Communities****
 
-The link to the project: [https://necessary-alder-1fb.notion.site/Data-story-d448501e95e5411390e2bfaddbb1e916?pvs=4](https://www.notion.so/Data-story-d448501e95e5411390e2bfaddbb1e916?pvs=21)
+The link to the data story: [https://necessary-alder-1fb.notion.site/Data-story-d448501e95e5411390e2bfaddbb1e916?pvs=4](https://www.notion.so/Data-story-d448501e95e5411390e2bfaddbb1e916?pvs=21)
 
 ## Abstract
 
