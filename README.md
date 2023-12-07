@@ -12,7 +12,7 @@ In this project, we're investigating how the political stance of different Reddi
     - *Correlation Between Sentiment and Political Orientation*: How does the sentiment expressed in comments across various subreddits correlate with the political stance?
         - Hypothesis: Community with more extreme political stance exhibit stronger sentiment.
 2. **Secondary Questions**:
-    - *~~Sentiment Analysis Across Subreddits*: What are the predominant sentiments expressed in comments across subreddits with different political orientations?~~
+    - ~~*Sentiment Analysis Across Subreddits*: What are the predominant sentiments expressed in comments across subreddits with different political orientations?~~
         - Tried different packages for emotion detection. Accuracy is low. Therefore abandon this.
     - *Comparison of News-Related and Regular Posts*: How do sentiments in news-related posts compare with sentiments in regular posts?
     - *Temporal Trends*: Are there any noticeable trends over time in the sentiments expressed in different politically-oriented subreddits, particularly in relation to major news events?
